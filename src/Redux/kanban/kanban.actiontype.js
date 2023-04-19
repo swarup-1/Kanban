@@ -1,0 +1,15 @@
+export const getboard = "getboard"
+export const loading = "loading"
+export const addboard = "addboard"
+export const updateboard = "updateboard"
+export const deleteboard = "deleteboard"
+
+export const gettask = "gettask"
+export const addtask = "addtask"
+export const updatetask = "updatetask"
+export const deletetask = "deletetask"
+
+export const getsubtask = "getsubtask"
+export const addsubtask = "addsubtask"
+export const updatesubtask = "updatesubtask"
+export const deletesubtask = "deletesubtask"
